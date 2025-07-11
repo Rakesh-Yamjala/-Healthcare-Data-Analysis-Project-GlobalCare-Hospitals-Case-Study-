@@ -65,6 +65,6 @@ I extracted insights from the dataset based on **10 real-world client questions*
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/healthcare-analysis.git
+git clone https://github.com/Rakesh-Yamjala/healthcare-analysis.git
 
 
